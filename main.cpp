@@ -1,3 +1,4 @@
+// Gestion des équipements - projet C++
 #include "mainwindow.h"
 
 #include <QApplication>
